@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 3: Linear Regression
 **AI & ML Internship — Elevate Labs**
 
@@ -158,3 +159,6 @@ is a proper probability between 0 and 1.
 - In general, the model can still run and produce *a* prediction, but
   the coefficients' interpretability and the model's statistical validity
   suffer, and predictive accuracy can degrade on new data.
+=======
+# Elevate-name-task--3
+>>>>>>> 284ab45744e795ecfcea4a75aa981076cac0cb3d
